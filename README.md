@@ -1,5 +1,5 @@
-# fdmg-react-components
-List of all FDMG ReactJS components.
+# FDMG React components
+List of all FDMG React components. All components are written in TypeScript and export its typings to maximize IDE support.
 
 ## Components
 
