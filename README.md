@@ -1,3 +1,5 @@
+> :exclamation: **DEPRECATED** :exclamation: : Superseded by @fdmg/design-system. See: https://github.com/FDMediagroep/fd-design-system
+
 # FDMG React components
 List of all FDMG React components. Where applicable the components will try to use available data to automatically generate ARIA-attributes if not specified manually. All components are written in TypeScript and export its typings to maximize IDE support.
 
